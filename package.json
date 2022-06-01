@@ -1,5 +1,5 @@
 {
-  "name": "googlebooks-app",
+  "name": "21-mern-book-finder",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
