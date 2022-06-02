@@ -36,11 +36,11 @@ If you have any questions, please contact me here: [Julieta's GitHub](https://gi
 - JavaScript
 
 ## Screenshot
-
+![image](https://user-images.githubusercontent.com/95149604/171533609-f86b84b8-91a0-405a-b343-9099deb8e472.png)
 
 ## Deployed Link
 
-[Click here to go to the app!]()
+[Click here to go to the app!](https://sleepy-brook-84540.herokuapp.com/)
 
 ## Sources
 [Starter Code provided by Trilogy in collaboration with Vanderbilt University.](https://github.com/coding-boot-camp/solid-broccoli)
